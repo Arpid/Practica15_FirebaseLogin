@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79660187453",
+    "project_id": "fir-login-e4e21",
+    "storage_bucket": "fir-login-e4e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79660187453:android:bd3d59277c47527a3a0f54",
+        "android_client_info": {
+          "package_name": "encinas.manuel.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79660187453-obtq0ruvhf2uu1h6d8leh0r020efus2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ziaUPoggenjehntmXepYJ0kKGWWii7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79660187453-obtq0ruvhf2uu1h6d8leh0r020efus2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
